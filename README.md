@@ -1,8 +1,10 @@
 # Actividad 1: Implementación de Convolución (sin padding)
+### Diana Escalante García | A01253468
 
+## Descripción
 Este repositorio contiene una implementación de convolución en imágenes sin utilizar padding para aplicarle un filtro.
 
-### Requisitos para ejecutar el programa:
+## Requisitos para ejecutar el programa:
 - Numpy
 - Matplotlib
 - OpenCv2
